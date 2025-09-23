@@ -1,0 +1,101 @@
+[01:21:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[01:21:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) for Minecraft 1.21.5
+[01:21:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:21:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[01:21:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:21:27] [ServerMain/WARN]: Missing data pack fabric
+[01:21:27] [ServerMain/WARN]: Missing data pack fabric-convention-tags-v2
+[01:21:27] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[01:21:27] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[01:21:28] [ServerMain/INFO]: Loaded 1373 recipes
+[01:21:28] [ServerMain/INFO]: Loaded 1484 advancements
+[01:21:29] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:21:29] [Server thread/INFO]: Loading properties
+[01:21:29] [Server thread/INFO]: This server is running Paper version 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[01:21:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:21:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:21:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:21:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:21:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:21:30] [Server thread/INFO]: Default game type: SURVIVAL
+[01:21:30] [Server thread/INFO]: Generating keypair
+[01:21:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:21:30] [Server thread/INFO]: Using epoll channel type
+[01:21:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:21:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[01:21:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:21:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:21:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:21:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:21:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:21:30] [Server thread/INFO]: Preparing level "world"
+[01:21:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:21:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:31] [Server thread/INFO]: Preparing spawn area: 2%
+[01:21:32] [Server thread/INFO]: Preparing spawn area: 32%
+[01:21:32] [Server thread/INFO]: Time elapsed: 1173 ms
+[01:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:21:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:32] [Server thread/INFO]: Time elapsed: 390 ms
+[01:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:21:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:21:32] [Server thread/INFO]: Time elapsed: 359 ms
+[01:21:33] [Server thread/INFO]: [spark] Starting background profiler...
+[01:21:34] [Server thread/INFO]: Done preparing level "world" (3.567s)
+[01:21:34] [Server thread/INFO]: Running delayed init tasks
+[01:21:34] [Server thread/INFO]: Done (15.949s)! For help, type "help"
+[01:22:22] [User Authenticator #0/INFO]: UUID of player NT_ZED is bef16be2-c60d-3fec-aee4-f866eac40c9e
+[01:22:24] [Server thread/INFO]: NT_ZED joined the game
+[01:22:24] [Server thread/INFO]: NT_ZED[/172.22.174.33:61686] logged in with entity id 20 at ([world]-3.5, 119.0, -2.5)
+[01:23:20] [Server thread/INFO]: Made NT_ZED a server operator
+[01:23:26] [Server thread/INFO]: NT_ZED issued server command: /weather clear
+[01:23:26] [Server thread/INFO]: [NT_ZED: Set the weather to clear]
+[01:24:12] [Server thread/INFO]: NT_ZED issued server command: /gamemode creative
+[01:24:12] [Server thread/INFO]: [NT_ZED: Set own game mode to Creative Mode]
+[01:24:52] [Server thread/INFO]: NT_ZED has made the advancement [Sweet Dreams]
+[01:25:15] [Server thread/INFO]: NT_ZED has made the advancement [Acquire Hardware]
+[01:25:20] [Server thread/INFO]: NT_ZED has made the advancement [Isn't It Iron Pick]
+[01:26:15] [Server thread/INFO]: NT_ZED issued server command: /gamemode spectator
+[01:26:15] [Server thread/INFO]: [NT_ZED: Set own game mode to Spectator Mode]
+[01:26:18] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
+[01:26:18] [Server thread/INFO]: [NT_ZED: Set own game mode to Survival Mode]
+[01:26:23] [Server thread/INFO]: NT_ZED has made the advancement [Monster Hunter]
+[01:26:40] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
+[01:26:45] [Server thread/INFO]: NT_ZED issued server command: /gamemode creative
+[01:26:45] [Server thread/INFO]: [NT_ZED: Set own game mode to Creative Mode]
+[01:26:48] [Server thread/INFO]: NT_ZED has made the advancement [Diamonds!]
+[01:26:57] [Server thread/INFO]: NT_ZED lost connection: Disconnected
+[01:26:57] [Server thread/INFO]: NT_ZED left the game
+[01:27:12] [Server thread/INFO]: Stopping the server
+[01:27:12] [Server thread/INFO]: Stopping server
+[01:27:12] [Server thread/INFO]: Saving players
+[01:27:12] [Server thread/INFO]: Saving worlds
+[01:27:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:27:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:27:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:27:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saved 679 block chunks, 686 entity chunks, 0 poi chunks in world 'world' in 1.22s
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:27:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:27:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:27:14] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[01:27:14] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[01:27:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:27:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
