@@ -1,101 +1,828 @@
-[01:21:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[01:21:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) for Minecraft 1.21.5
-[01:21:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:21:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[01:21:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:21:27] [ServerMain/WARN]: Missing data pack fabric
-[01:21:27] [ServerMain/WARN]: Missing data pack fabric-convention-tags-v2
-[01:21:27] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[01:21:27] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[01:21:28] [ServerMain/INFO]: Loaded 1373 recipes
-[01:21:28] [ServerMain/INFO]: Loaded 1484 advancements
-[01:21:29] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[01:21:29] [Server thread/INFO]: Loading properties
-[01:21:29] [Server thread/INFO]: This server is running Paper version 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
-[01:21:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:21:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:21:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:21:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:21:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:21:30] [Server thread/INFO]: Default game type: SURVIVAL
-[01:21:30] [Server thread/INFO]: Generating keypair
-[01:21:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:21:30] [Server thread/INFO]: Using epoll channel type
-[01:21:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:21:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:21:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:21:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:21:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:21:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:21:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:21:30] [Server thread/INFO]: Preparing level "world"
-[01:21:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:21:31] [Server thread/INFO]: Preparing spawn area: 0%
-[01:21:31] [Server thread/INFO]: Preparing spawn area: 2%
-[01:21:32] [Server thread/INFO]: Preparing spawn area: 32%
-[01:21:32] [Server thread/INFO]: Time elapsed: 1173 ms
-[01:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:21:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:21:32] [Server thread/INFO]: Time elapsed: 390 ms
-[01:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:21:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:21:32] [Server thread/INFO]: Time elapsed: 359 ms
-[01:21:33] [Server thread/INFO]: [spark] Starting background profiler...
-[01:21:34] [Server thread/INFO]: Done preparing level "world" (3.567s)
-[01:21:34] [Server thread/INFO]: Running delayed init tasks
-[01:21:34] [Server thread/INFO]: Done (15.949s)! For help, type "help"
-[01:22:22] [User Authenticator #0/INFO]: UUID of player NT_ZED is bef16be2-c60d-3fec-aee4-f866eac40c9e
-[01:22:24] [Server thread/INFO]: NT_ZED joined the game
-[01:22:24] [Server thread/INFO]: NT_ZED[/172.22.174.33:61686] logged in with entity id 20 at ([world]-3.5, 119.0, -2.5)
-[01:23:20] [Server thread/INFO]: Made NT_ZED a server operator
-[01:23:26] [Server thread/INFO]: NT_ZED issued server command: /weather clear
-[01:23:26] [Server thread/INFO]: [NT_ZED: Set the weather to clear]
-[01:24:12] [Server thread/INFO]: NT_ZED issued server command: /gamemode creative
-[01:24:12] [Server thread/INFO]: [NT_ZED: Set own game mode to Creative Mode]
-[01:24:52] [Server thread/INFO]: NT_ZED has made the advancement [Sweet Dreams]
-[01:25:15] [Server thread/INFO]: NT_ZED has made the advancement [Acquire Hardware]
-[01:25:20] [Server thread/INFO]: NT_ZED has made the advancement [Isn't It Iron Pick]
-[01:26:15] [Server thread/INFO]: NT_ZED issued server command: /gamemode spectator
-[01:26:15] [Server thread/INFO]: [NT_ZED: Set own game mode to Spectator Mode]
-[01:26:18] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
-[01:26:18] [Server thread/INFO]: [NT_ZED: Set own game mode to Survival Mode]
-[01:26:23] [Server thread/INFO]: NT_ZED has made the advancement [Monster Hunter]
-[01:26:40] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
-[01:26:45] [Server thread/INFO]: NT_ZED issued server command: /gamemode creative
-[01:26:45] [Server thread/INFO]: [NT_ZED: Set own game mode to Creative Mode]
-[01:26:48] [Server thread/INFO]: NT_ZED has made the advancement [Diamonds!]
-[01:26:57] [Server thread/INFO]: NT_ZED lost connection: Disconnected
-[01:26:57] [Server thread/INFO]: NT_ZED left the game
-[01:27:12] [Server thread/INFO]: Stopping the server
-[01:27:12] [Server thread/INFO]: Stopping server
-[01:27:12] [Server thread/INFO]: Saving players
-[01:27:12] [Server thread/INFO]: Saving worlds
-[01:27:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:27:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:27:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:27:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saved 679 block chunks, 686 entity chunks, 0 poi chunks in world 'world' in 1.22s
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[01:27:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[01:27:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[01:27:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:27:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:27:14] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[01:27:14] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[01:27:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:27:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[01:59:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[01:59:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) for Minecraft 1.21.5
+[01:59:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:59:11] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/EliteMobs.jar'...
+[01:59:11] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer (1).jar'...
+[01:59:13] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EliteMobs.jar' in 2309ms.
+[01:59:14] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer (1).jar' in 2653ms.
+[01:59:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[01:59:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - EliteMobs (9.5.4), SkinsRestorer (15.8.0)
+[01:59:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:59:21] [ServerMain/INFO]: Loaded 1373 recipes
+[01:59:21] [ServerMain/INFO]: Loaded 1484 advancements
+[01:59:21] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:59:21] [Server thread/INFO]: Loading properties
+[01:59:21] [Server thread/INFO]: This server is running Paper version 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[01:59:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:59:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:59:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:59:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:59:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:59:22] [Server thread/INFO]: Default game type: SURVIVAL
+[01:59:22] [Server thread/INFO]: Generating keypair
+[01:59:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:59:22] [Server thread/INFO]: Using epoll channel type
+[01:59:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:59:22] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[01:59:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[01:59:22] [Server thread/INFO]: [EliteMobs] Loading server plugin EliteMobs v9.5.4
+[01:59:22] [Server thread/INFO]: [EliteMobs] MagmaCore v1.13-SNAPSHOT initialized!
+[01:59:22] [Server thread/INFO]: [EliteMobs] Registered /logify command
+[01:59:22] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[01:59:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:59:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[01:59:23] [Server thread/INFO]: [SkinsRestorer] Renaming customGUI.enabled to gui.custom.enabled
+[01:59:23] [Server thread/INFO]: [SkinsRestorer] Renaming customGUI.showOnlyCustomGUI to gui.custom.onlyShowList
+[01:59:23] [Server thread/INFO]: [SkinsRestorer] Renaming customGUI.list to gui.custom.list
+[01:59:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.5.
+[01:59:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:59:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:59:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:59:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:59:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:59:24] [Server thread/INFO]: Preparing level "world"
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.8.0
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 752814e
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:59:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:59:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:59:25] [Server thread/INFO]: Preparing spawn area: 0%
+[01:59:25] [Server thread/INFO]: Preparing spawn area: 8%
+[01:59:26] [Server thread/INFO]: Preparing spawn area: 18%
+[01:59:26] [Server thread/INFO]: Time elapsed: 1042 ms
+[01:59:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:59:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:59:26] [Server thread/INFO]: Time elapsed: 323 ms
+[01:59:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:59:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:59:26] [Server thread/INFO]: Time elapsed: 147 ms
+[01:59:26] [Server thread/INFO]: [EliteMobs] Enabling EliteMobs v9.5.4
+[01:59:26] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[01:59:26] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[01:59:26] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[01:59:26] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[01:59:26] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[01:59:26] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[01:59:26] [Server thread/INFO]: By MagmaGuy - v. 9.5.4
+[01:59:26] [Server thread/INFO]: [EliteMobs] Supported server version detected: v1_21_R4
+[01:59:26] [Server thread/INFO]: [EliteMobs] New default max health set correctly!
+[01:59:26] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 76 ms to scan 121 urls, producing 0 keys and 0 values
+[01:59:26] [Server thread/WARN]: [EliteMobs] No valid materials detected for the procedural item settings. If you are trying to disable them, use the 'dropProcedurallyGeneratedItems' option instead. Warn the developer.
+[01:59:26] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 70 ms to scan 1 urls, producing 1 keys and 60 values
+[01:59:27] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 20 ms to scan 1 urls, producing 1 keys and 16 values
+[01:59:27] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:59:30] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 8 ms to scan 1 urls, producing 1 keys and 71 values
+[01:59:30] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 41 ms to scan 1 urls, producing 10 keys and 220 values
+[01:59:30] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 7 ms to scan 1 urls, producing 1 keys and 15 values
+[01:59:30] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[01:59:31] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[01:59:31] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 9 ms to scan 1 urls, producing 1 keys and 116 values
+[01:59:33] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 7 ms to scan 1 urls, producing 1 keys and 73 values
+[01:59:33] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_primis_wormhole does not exist!
+[01:59:33] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_oasis_wormhole does not exist!
+[01:59:33] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 8 ms to scan 1 urls, producing 1 keys and 134 values
+[01:59:34] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[01:59:34] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 33 values
+[01:59:34] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 24 values
+[01:59:34] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[01:59:34] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[01:59:34] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[01:59:34] [Server thread/INFO]: [spark] Starting background profiler...
+[01:59:34] [Server thread/INFO]: Done preparing level "world" (10.235s)
+[01:59:34] [Server thread/INFO]: Running delayed init tasks
+[01:59:34] [Server thread/INFO]: Done (25.005s)! For help, type "help"
+[01:59:34] [Craft Scheduler Thread - 2 - EliteMobs/INFO]: [EliteMobs] Latest public release is 9.5.4
+[01:59:34] [Craft Scheduler Thread - 2 - EliteMobs/INFO]: [EliteMobs] Your version is 9.5.4
+[01:59:34] [Craft Scheduler Thread - 2 - EliteMobs/INFO]: [EliteMobs] You are running the latest version!
+[01:59:42] [User Authenticator #0/INFO]: UUID of player NT_ZED is bef16be2-c60d-3fec-aee4-f866eac40c9e
+[01:59:43] [Server thread/INFO]: NT_ZED joined the game
+[01:59:43] [Server thread/INFO]: NT_ZED[/127.173.129.206:59785] logged in with entity id 20 at ([world]-72.72557526703196, 72.875, -389.39023318485795)
+[01:59:44] [Craft Scheduler Thread - 3 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[02:01:04] [Server thread/INFO]: NT_ZED issued server command: /elitemobs
+[02:01:23] [Server thread/INFO]: NT_ZED issued server command: /elitemobs:adventurersguild
+[02:02:58] [Server thread/INFO]: NT_ZED issued server command: /elitemobs
+[02:03:10] [Server thread/INFO]: NT_ZED issued server command: /elitemobs
+[02:03:26] [Server thread/INFO]: NT_ZED issued server command: /elitemobs adventurersguild
+[02:03:40] [Server thread/INFO]: NT_ZED issued server command: /elitemobs
+[02:04:00] [Server thread/INFO]: NT_ZED issued server command: /elitemobs alt
+[02:04:16] [Server thread/INFO]: NT_ZED issued server command: /elitemobs
+[02:04:26] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:04:34] [Server thread/INFO]: [EliteMobs] Event treasure_goblin.yml has been queued!
+[02:05:48] [Server thread/INFO]: NT_ZED issued server command: /elitemobs language
+[02:06:04] [Server thread/INFO]: NT_ZED issued server command: /em language lnaguage
+[02:06:15] [Server thread/INFO]: NT_ZED issued server command: /em language español
+[02:06:25] [Server thread/INFO]: NT_ZED issued server command: /em language
+[02:06:37] [User Authenticator #1/INFO]: UUID of player Tesrra is 50904595-ce57-39b7-a02e-088d32088950
+[02:06:38] [Server thread/INFO]: Tesrra joined the game
+[02:06:38] [Server thread/INFO]: Tesrra[/127.192.40.227:58955] logged in with entity id 745 at ([world]-7.5, 119.0, 5.5)
+[02:06:39] [Craft Scheduler Thread - 44 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[02:07:46] [Server thread/INFO]: Tesrra has made the advancement [Stone Age]
+[02:08:02] [Server thread/INFO]: Tesrra has made the advancement [Getting an Upgrade]
+[02:08:45] [Server thread/INFO]: NT_ZED issued server command: /em language español
+[02:08:56] [Server thread/INFO]: Made NT_ZED a server operator
+[02:09:15] [Server thread/INFO]: NT_ZED issued server command: /em language spanish.yml
+[02:09:16] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[02:09:16] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[02:09:16] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[02:09:16] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[02:09:16] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[02:09:16] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[02:09:16] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[02:09:16] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[02:09:16] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[02:09:16] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[02:09:16] [Server thread/INFO]: By MagmaGuy - v. 9.5.4
+[02:09:16] [Server thread/INFO]: [EliteMobs] Supported server version detected: v1_21_R4
+[02:09:16] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 69 ms to scan 121 urls, producing 0 keys and 0 values
+[02:09:16] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 10 ms to scan 1 urls, producing 1 keys and 60 values
+[02:09:16] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 16 values
+[02:09:19] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 71 values
+[02:09:19] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 15 ms to scan 1 urls, producing 10 keys and 220 values
+[02:09:20] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 15 values
+[02:09:20] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[02:09:20] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[02:09:20] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 116 values
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 5 ms to scan 1 urls, producing 1 keys and 73 values
+[02:09:21] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_primis_wormhole does not exist!
+[02:09:21] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_oasis_wormhole does not exist!
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 11 ms to scan 1 urls, producing 1 keys and 134 values
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 33 values
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 24 values
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[02:09:21] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[02:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
+[02:09:21] [Craft Scheduler Thread - 60 - EliteMobs/INFO]: [EliteMobs] User 50904595-ce57-39b7-a02e-088d32088950 data successfully read!
+[02:09:21] [Craft Scheduler Thread - 61 - EliteMobs/INFO]: [EliteMobs] User bef16be2-c60d-3fec-aee4-f866eac40c9e data successfully read!
+[02:09:21] [Craft Scheduler Thread - 58 - EliteMobs/INFO]: [EliteMobs] Latest public release is 9.5.4
+[02:09:21] [Craft Scheduler Thread - 58 - EliteMobs/INFO]: [EliteMobs] Your version is 9.5.4
+[02:09:21] [Craft Scheduler Thread - 58 - EliteMobs/INFO]: [EliteMobs] You are running the latest version!
+[02:09:21] [Server thread/WARN]: Tesrra moved too quickly! -8.934556512952014,-5.249187078744683,-11.545441494342882
+[02:09:34] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:09:39] [Async Chat Thread - #0/INFO]: [Not Secure] <NT_ZED> pon
+[02:09:45] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:09:49] [Async Chat Thread - #0/INFO]: [Not Secure] <NT_ZED> ..../em
+[02:09:52] [Server thread/INFO]: Tesrra issued server command: /em
+[02:10:09] [Server thread/INFO]: NT_ZED issued server command: /elitemobs
+[02:10:17] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:11:05] [Server thread/INFO]: NT_ZED issued server command: /em start
+[02:11:16] [Server thread/INFO]: NT_ZED issued server command: /em start tesrra
+[02:11:31] [Async Chat Thread - #2/INFO]: [Not Secure] <NT_ZED> mmmm/em start
+[02:11:40] [Server thread/INFO]: NT_ZED has made the advancement [A Seedy Place]
+[02:11:58] [Server thread/INFO]: Tesrra issued server command: /em start
+[02:12:33] [Async Chat Thread - #4/INFO]: [Not Secure] <NT_ZED> ,, em language
+[02:12:41] [Server thread/INFO]: NT_ZED issued server command: /em language
+[02:12:44] [Server thread/INFO]: Tesrra issued server command: /em language
+[02:13:00] [Server thread/INFO]: NT_ZED issued server command: /em language spanish.yml
+[02:13:00] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[02:13:00] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[02:13:00] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[02:13:00] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[02:13:00] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[02:13:00] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[02:13:00] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[02:13:00] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[02:13:00] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[02:13:00] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[02:13:00] [Server thread/INFO]: By MagmaGuy - v. 9.5.4
+[02:13:00] [Server thread/INFO]: [EliteMobs] Supported server version detected: v1_21_R4
+[02:13:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 54 ms to scan 121 urls, producing 0 keys and 0 values
+[02:13:01] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 11 ms to scan 1 urls, producing 1 keys and 60 values
+[02:13:01] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 8 ms to scan 1 urls, producing 1 keys and 16 values
+[02:13:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 7 ms to scan 1 urls, producing 1 keys and 71 values
+[02:13:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 19 ms to scan 1 urls, producing 10 keys and 220 values
+[02:13:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 15 values
+[02:13:04] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[02:13:05] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[02:13:05] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 7 ms to scan 1 urls, producing 1 keys and 116 values
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 5 ms to scan 1 urls, producing 1 keys and 73 values
+[02:13:06] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_primis_wormhole does not exist!
+[02:13:06] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_oasis_wormhole does not exist!
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 134 values
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 33 values
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 24 values
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[02:13:06] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[02:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6175ms or 123 ticks behind
+[02:13:06] [Craft Scheduler Thread - 83 - EliteMobs/INFO]: [EliteMobs] User bef16be2-c60d-3fec-aee4-f866eac40c9e data successfully read!
+[02:13:06] [Craft Scheduler Thread - 84 - EliteMobs/INFO]: [EliteMobs] User 50904595-ce57-39b7-a02e-088d32088950 data successfully read!
+[02:13:06] [Server thread/INFO]: Tesrra issued server command: /em language spanish.yml
+[02:13:06] [Craft Scheduler Thread - 82 - EliteMobs/INFO]: [EliteMobs] Latest public release is 9.5.4
+[02:13:06] [Craft Scheduler Thread - 82 - EliteMobs/INFO]: [EliteMobs] Your version is 9.5.4
+[02:13:06] [Craft Scheduler Thread - 82 - EliteMobs/INFO]: [EliteMobs] You are running the latest version!
+[02:14:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/em language spanish.yml tesrra<--[HERE]
+[02:14:14] [Server thread/INFO]: NT_ZED issued server command: /em language spanish.yml @p
+[02:14:47] [Server thread/INFO]: NT_ZED issued server command: /em adventurersguild
+[02:15:14] [Server thread/INFO]: NT_ZED issued server command: /em initialize
+[02:15:19] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[02:15:19] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[02:15:19] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[02:15:19] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[02:15:19] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[02:15:19] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[02:15:19] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[02:15:19] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[02:15:19] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[02:15:19] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[02:15:19] [Server thread/INFO]: By MagmaGuy - v. 9.5.4
+[02:15:19] [Server thread/INFO]: [EliteMobs] Supported server version detected: v1_21_R4
+[02:15:19] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 20 ms to scan 121 urls, producing 0 keys and 0 values
+[02:15:19] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 60 values
+[02:15:19] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 16 values
+[02:15:22] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 71 values
+[02:15:22] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 17 ms to scan 1 urls, producing 10 keys and 220 values
+[02:15:22] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 15 values
+[02:15:22] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[02:15:22] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[02:15:22] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 116 values
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 73 values
+[02:15:23] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_primis_wormhole does not exist!
+[02:15:23] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_oasis_wormhole does not exist!
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 8 ms to scan 1 urls, producing 1 keys and 134 values
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 33 values
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 24 values
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 8 values
+[02:15:23] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[02:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4066ms or 81 ticks behind
+[02:15:23] [Craft Scheduler Thread - 95 - EliteMobs/INFO]: [EliteMobs] User 50904595-ce57-39b7-a02e-088d32088950 data successfully read!
+[02:15:23] [Craft Scheduler Thread - 96 - EliteMobs/INFO]: [EliteMobs] User bef16be2-c60d-3fec-aee4-f866eac40c9e data successfully read!
+[02:15:23] [Craft Scheduler Thread - 93 - EliteMobs/INFO]: [EliteMobs] Latest public release is 9.5.4
+[02:15:23] [Craft Scheduler Thread - 93 - EliteMobs/INFO]: [EliteMobs] Your version is 9.5.4
+[02:15:23] [Craft Scheduler Thread - 93 - EliteMobs/INFO]: [EliteMobs] You are running the latest version!
+[02:15:32] [Server thread/INFO]: Tesrra has made the advancement [Acquire Hardware]
+[02:15:59] [Server thread/INFO]: Tesrra has made the advancement [Monster Hunter]
+[02:16:46] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:16:57] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:17:05] [Server thread/INFO]: NT_ZED issued server command: /em spawntp
+[02:17:13] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:17:17] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:17:23] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:17:31] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:17:32] [Server thread/INFO]: Tesrra issued server command: /em
+[02:17:39] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:17:43] [Server thread/INFO]: Tesrra issued server command: /em
+[02:17:55] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:18:00] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:18:04] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:18:08] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:18:13] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:18:18] [Server thread/INFO]: NT_ZED issued server command: /em dismiss
+[02:18:20] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:18:42] [Server thread/INFO]: Tesrra issued server command: /em language spanish.yml
+[02:18:47] [Server thread/INFO]: NT_ZED issued server command: /op Tesrra
+[02:18:47] [Server thread/INFO]: [NT_ZED: Made Tesrra a server operator]
+[02:18:55] [Server thread/INFO]: Tesrra issued server command: /em language spanish.yml
+[02:18:55] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[02:18:55] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[02:18:55] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[02:18:55] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[02:18:55] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[02:18:55] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[02:18:55] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[02:18:55] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[02:18:55] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[02:18:55] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[02:18:55] [Server thread/INFO]: By MagmaGuy - v. 9.5.4
+[02:18:55] [Server thread/INFO]: [EliteMobs] Supported server version detected: v1_21_R4
+[02:18:55] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 13 ms to scan 121 urls, producing 0 keys and 0 values
+[02:18:56] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 60 values
+[02:18:56] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 16 values
+[02:18:59] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 71 values
+[02:18:59] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 11 ms to scan 1 urls, producing 10 keys and 220 values
+[02:18:59] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 15 values
+[02:18:59] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[02:18:59] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[02:18:59] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 116 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 73 values
+[02:19:00] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_primis_wormhole does not exist!
+[02:19:00] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_oasis_wormhole does not exist!
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 7 ms to scan 1 urls, producing 1 keys and 134 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 33 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 24 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 4 values
+[02:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4809ms or 96 ticks behind
+[02:19:00] [Craft Scheduler Thread - 117 - EliteMobs/INFO]: [EliteMobs] User 50904595-ce57-39b7-a02e-088d32088950 data successfully read!
+[02:19:00] [Craft Scheduler Thread - 116 - EliteMobs/INFO]: [EliteMobs] User bef16be2-c60d-3fec-aee4-f866eac40c9e data successfully read!
+[02:19:00] [Server thread/INFO]: Tesrra issued server command: /em language spanish.yml
+[02:19:00] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[02:19:00] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[02:19:00] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[02:19:00] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[02:19:00] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[02:19:00] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[02:19:00] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[02:19:00] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[02:19:00] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[02:19:00] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[02:19:00] [Server thread/INFO]: By MagmaGuy - v. 9.5.4
+[02:19:00] [Server thread/INFO]: [EliteMobs] Supported server version detected: v1_21_R4
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 18 ms to scan 121 urls, producing 0 keys and 0 values
+[02:19:00] [Craft Scheduler Thread - 114 - EliteMobs/INFO]: [EliteMobs] Latest public release is 9.5.4
+[02:19:00] [Craft Scheduler Thread - 114 - EliteMobs/INFO]: [EliteMobs] Your version is 9.5.4
+[02:19:00] [Craft Scheduler Thread - 114 - EliteMobs/INFO]: [EliteMobs] You are running the latest version!
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 60 values
+[02:19:00] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 16 values
+[02:19:03] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 71 values
+[02:19:03] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 9 ms to scan 1 urls, producing 10 keys and 220 values
+[02:19:03] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 15 values
+[02:19:03] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[02:19:03] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[02:19:03] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 116 values
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 73 values
+[02:19:04] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_primis_wormhole does not exist!
+[02:19:04] [Server thread/WARN]: [EliteMobs] File  /workspaces/prueba-1/servidor_minecraft/./em_oasis_wormhole does not exist!
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 4 ms to scan 1 urls, producing 1 keys and 134 values
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 33 values
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 24 values
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 8 values
+[02:19:04] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[02:19:04] [Craft Scheduler Thread - 115 - EliteMobs/INFO]: [EliteMobs] User bef16be2-c60d-3fec-aee4-f866eac40c9e data successfully read!
+[02:19:04] [Craft Scheduler Thread - 118 - EliteMobs/INFO]: [EliteMobs] User 50904595-ce57-39b7-a02e-088d32088950 data successfully read!
+[02:19:04] [Server thread/INFO]: Tesrra issued server command: /em
+[02:19:04] [Craft Scheduler Thread - 116 - EliteMobs/INFO]: [EliteMobs] Latest public release is 9.5.4
+[02:19:04] [Craft Scheduler Thread - 116 - EliteMobs/INFO]: [EliteMobs] Your version is 9.5.4
+[02:19:04] [Craft Scheduler Thread - 116 - EliteMobs/INFO]: [EliteMobs] You are running the latest version!
+[02:19:24] [Server thread/INFO]: NT_ZED issued server command: /deop Tesrra
+[02:19:24] [Server thread/INFO]: [NT_ZED: Made Tesrra no longer a server operator]
+[02:19:32] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra NT_ZED
+[02:19:32] [Server thread/INFO]: [NT_ZED: Teleported Tesrra to NT_ZED]
+[02:19:57] [Server thread/INFO]: Tesrra issued server command: /em language spanish.yml
+[02:20:00] [Server thread/INFO]: Tesrra issued server command: /em
+[02:20:06] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:20:25] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:20:27] [Server thread/INFO]: Tesrra issued server command: /em spawntp
+[02:20:42] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra NT_ZED
+[02:20:42] [Server thread/INFO]: [NT_ZED: Teleported Tesrra to NT_ZED]
+[02:20:46] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:20:49] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:20:55] [Server thread/INFO]: Tesrra issued server command: /em
+[02:21:01] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:21:05] [Server thread/INFO]: Tesrra issued server command: /ag
+[02:21:07] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:21:13] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:21:17] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[02:21:19] [Server thread/INFO]: Tesrra has made the advancement [Isn't It Iron Pick]
+[02:21:19] [Server thread/INFO]: Tesrra has made the advancement [Suit Up]
+[02:21:22] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:21:40] [Server thread/INFO]: NT_ZED issued server command: /shareitem
+[02:21:48] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:21:52] [Server thread/INFO]: NT_ZED issued server command: /shareitem
+[02:21:59] [Server thread/INFO]: NT_ZED issued server command: /em shareItem
+[02:22:04] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:22:12] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:23:14] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:23:18] [Server thread/INFO]: NT_ZED issued server command: /ag
+[02:23:29] [Server thread/INFO]: NT_ZED issued server command: /em dungeontp
+[02:23:39] [Server thread/INFO]: NT_ZED issued server command: /em dungeontp Dungeon ID (you can't run this manually!)
+[02:23:49] [Server thread/INFO]: NT_ZED issued server command: /em dungeontp Dungeon ID
+[02:24:03] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:24:14] [Server thread/INFO]: NT_ZED issued server command: /em
+[02:24:35] [Async Chat Thread - #6/INFO]: [Not Secure] <NT_ZED> https://nightbreak.io/plugin/elitemobs/#the-adventurers-guild
+[02:25:42] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra NT_ZED
+[02:25:42] [Server thread/INFO]: [NT_ZED: Teleported Tesrra to NT_ZED]
+[02:25:48] [Server thread/INFO]: NT_ZED issued server command: /deop NT_ZED
+[02:25:48] [Server thread/INFO]: [NT_ZED: Made NT_ZED no longer a server operator]
+[02:26:03] [Server thread/INFO]: Tesrra was slain by NT_ZED
+[02:26:05] [Server thread/INFO]: NT_ZED has made the advancement [Getting an Upgrade]
+[02:26:18] [Server thread/INFO]: Teleported Tesrra to NT_ZED
+[02:26:29] [Server thread/INFO]: Tesrra was slain by NT_ZED
+[02:26:55] [Server thread/INFO]: Made NT_ZED a server operator
+[02:26:58] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra
+[02:26:58] [Server thread/INFO]: [NT_ZED: Teleported NT_ZED to Tesrra]
+[02:27:08] [Server thread/INFO]: NT_ZED issued server command: /gamemode adventure Tesrra
+[02:27:08] [Server thread/INFO]: [NT_ZED: Set Tesrra's game mode to Adventure Mode]
+[02:27:12] [Server thread/INFO]: Tesrra issued server command: /em
+[02:27:18] [Server thread/INFO]: Tesrra issued server command: /em spawntp
+[02:29:37] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival Tesrra
+[02:29:37] [Server thread/INFO]: [NT_ZED: Set Tesrra's game mode to Survival Mode]
+[02:30:15] [Server thread/INFO]: NT_ZED has made the advancement [We Need to Go Deeper]
+[02:30:17] [Server thread/INFO]: Tesrra has made the advancement [We Need to Go Deeper]
+[02:31:02] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra
+[02:31:02] [Server thread/INFO]: [NT_ZED: Teleported NT_ZED to Tesrra]
+[02:34:17] [Server thread/INFO]: Tesrra has made the advancement [Diamonds!]
+[02:37:17] [Server thread/INFO]: Tesrra fell from a high place
+[02:37:33] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra NT_ZED
+[02:37:33] [Server thread/INFO]: [NT_ZED: Teleported Tesrra to NT_ZED]
+[02:40:06] [Server thread/INFO]: NT_ZED issued server command: /gamemode creative
+[02:40:06] [Server thread/INFO]: [NT_ZED: Set own game mode to Creative Mode]
+[02:40:37] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss alpha_werewolf_p2.yml <level> 100
+[02:40:42] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra
+[02:40:42] [Server thread/INFO]: [NT_ZED: Teleported NT_ZED to Tesrra]
+[02:40:47] [Server thread/INFO]: Tesrra issued server command: /em
+[02:40:51] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
+[02:40:51] [Server thread/INFO]: [NT_ZED: Set own game mode to Survival Mode]
+[02:40:51] [Server thread/INFO]: Tesrra issued server command: /em spawntp
+[02:41:50] [Server thread/INFO]: ¡NT_ZED se ha convertido en el cojín de Esqueleto de Elite Nivel 7!
+[02:41:57] [Server thread/INFO]: Tesrra hit the ground too hard
+[02:42:47] [Server thread/INFO]: Tesrra issued server command: /em
+[02:42:50] [Server thread/INFO]: Tesrra issued server command: /em spawntp
+[02:43:46] [Server thread/INFO]: Tesrra was shot by Skeleton
+[02:43:50] [Server thread/INFO]: Tesrra issued server command: /em
+[02:43:54] [Server thread/INFO]: Tesrra issued server command: /em spawntp
+[02:43:59] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml
+[02:43:59] [Server thread/INFO]: ¡El Rey Zombie ha sido avistado!
+[02:45:02] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra NT_ZED
+[02:45:02] [Server thread/INFO]: [NT_ZED: Teleported Tesrra to NT_ZED]
+[02:46:32] [Server thread/INFO]: ¡NT_ZED fue devorado por Rey Zombi 「6」!
+[02:47:02] [Server thread/INFO]: NT_ZED issued server command: /deop NT_ZED
+[02:47:02] [Server thread/INFO]: [NT_ZED: Made NT_ZED no longer a server operator]
+[02:47:23] [Server thread/INFO]: Named entity Husk['〔6〕 Muertos vivientes'/10579, uuid='f3714b57-b514-4859-8761-fd2d15df7e13', l='ServerLevel[world]', x=-81.70, y=71.00, z=-389.92, cpos=[-6, -25], tl=2273, v=true] died: 〔6〕 Muertos vivientes was slain by Tesrra
+[02:47:29] [Server thread/INFO]: ¡Tesrra fue devorado por Rey Zombi 「6」!
+[02:48:00] [Server thread/INFO]: Tesrra was burned to a crisp while fighting 〔1〕 Muertos vivientes
+[02:48:40] [Server thread/INFO]: ¡Rey Zombi 「2」 llegó a los cerebros de NT_ZED!
+[02:49:42] [Server thread/INFO]: ¡Rey Zombi 「3」 llegó a los cerebros de NT_ZED!
+[02:50:05] [Server thread/INFO]: ¡El Rey Zombie ha sido asesinado por Tesrra, NT_ZED!
+[02:50:05] [Server thread/INFO]: Named entity Zombie['Rey Zombi 「3」'/10059, uuid='e55febb8-f5b2-4e28-9300-d41940d294ce', l='ServerLevel[world]', x=-81.30, y=71.00, z=-390.12, cpos=[-6, -25], tl=7330, v=true] died: Rey Zombi 「3」 was slain by NT_ZED
+[02:50:46] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11274, uuid='b471fc2a-69c9-4355-b3d4-ff912ced4442', l='ServerLevel[world]', x=-81.85, y=71.00, z=-391.30, cpos=[-6, -25], tl=893, v=true] died: El Retornado 〔3〕 was slain by Tesrra
+[02:50:50] [Server thread/INFO]: ¡Tesrra fue carroña de un El Retornado 〔3〕!
+[02:51:34] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11281, uuid='4bc33537-6d57-4aa0-84f6-abe3d336be6b', l='ServerLevel[world]', x=-78.39, y=72.00, z=-392.84, cpos=[-5, -25], tl=1852, v=true] died: El Retornado 〔3〕 was slain by Tesrra
+[02:51:35] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11275, uuid='1b8f2f86-ce56-4f3a-908a-a1a140e1bbed', l='ServerLevel[world]', x=-77.62, y=72.00, z=-393.47, cpos=[-5, -25], tl=1864, v=true] died: El Retornado 〔3〕 was slain by Tesrra
+[02:51:39] [Server thread/INFO]: ¡NT_ZED fue carroña de un El Retornado 〔3〕!
+[02:51:42] [Server thread/INFO]: ¡Tesrra fue carroña de un El Retornado 〔3〕!
+[02:51:52] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11279, uuid='76149356-a26f-483b-b024-f138240182c2', l='ServerLevel[world]', x=-82.65, y=72.00, z=-390.38, cpos=[-6, -25], tl=2209, v=true] died: El Retornado 〔3〕 was slain by Tesrra using [Hacha del Rey Zombie]
+[02:51:52] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11273, uuid='ed8eb239-c0cd-4fb1-bf52-66b6373648d8', l='ServerLevel[world]', x=-80.45, y=71.94, z=-394.33, cpos=[-6, -25], tl=2209, v=true] died: El Retornado 〔3〕 was slain by Tesrra using [Hacha del Rey Zombie]
+[02:51:52] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11276, uuid='175fb49e-723c-48e2-a2f2-2c671afb0963', l='ServerLevel[world]', x=-83.95, y=71.00, z=-392.63, cpos=[-6, -25], tl=2210, v=true] died: El Retornado 〔3〕 withered away while fighting Tesrra
+[02:51:56] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11278, uuid='0b89937f-bd34-4c98-ac50-23cf557d9f3f', l='ServerLevel[world]', x=-81.30, y=71.00, z=-389.41, cpos=[-6, -25], tl=2285, v=true] died: El Retornado 〔3〕 was slain by NT_ZED
+[02:52:04] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[02:52:16] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11272, uuid='eb1d44ea-632d-4752-a514-0e0b2f60f30a', l='ServerLevel[world]', x=-78.93, y=70.00, z=-395.31, cpos=[-5, -25], tl=2698, v=true] died: El Retornado 〔3〕 was slain by Tesrra using [Hacha del Rey Zombie]
+[02:52:16] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11280, uuid='58e755c9-c577-41db-b146-ba1b5ad23fb7', l='ServerLevel[world]', x=-79.58, y=70.00, z=-395.70, cpos=[-5, -25], tl=2698, v=true] died: El Retornado 〔3〕 was slain by Tesrra using [Hacha del Rey Zombie]
+[02:52:16] [Server thread/INFO]: Named entity Husk['El Retornado 〔3〕'/11277, uuid='a1effdb5-5eff-4af1-9c60-8d9d6818d6b0', l='ServerLevel[world]', x=-80.24, y=70.00, z=-395.30, cpos=[-6, -25], tl=2698, v=true] died: El Retornado 〔3〕 was slain by Tesrra using [Hacha del Rey Zombie]
+[02:53:20] [Server thread/INFO]: Tesrra was slain by NT_ZED
+[02:53:24] [Server thread/INFO]: NT_ZED was burned to a crisp while fighting Tesrra
+[02:54:05] [Server thread/INFO]: NT_ZED issued server command: /em spawn
+[02:54:15] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss
+[02:54:27] [Server thread/INFO]: Made NT_ZED a server operator
+[02:55:48] [Server thread/INFO]: Tesrra has made the advancement [Sweet Dreams]
+[02:56:15] [Server thread/INFO]: NT_ZED issued server command: /em spawn bossAt zombie_king.yml lvl:15
+[02:57:00] [Server thread/INFO]: NT_ZED issued server command: /em spawn bossAt blayyze.yml
+[02:57:44] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml <leve:15l>
+[02:57:44] [Server thread/ERROR]: Command exception: /em spawn boss zombie_king.yml <leve:15l>
+org.bukkit.command.CommandException: Unhandled exception executing command 'em' in plugin EliteMobs v9.5.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:449) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2269) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2242) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1446) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:175) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1426) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1420) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1377) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1385) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1262) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.magmaguy.magmacore.command.CommandData.getIntegerArgument(String)" is null
+	at EliteMobs.jar/com.magmaguy.elitemobs.commands.SpawnBossLevelCommand.execute(SpawnBossLevelCommand.java:29) ~[EliteMobs.jar:?]
+	at EliteMobs.jar/com.magmaguy.magmacore.command.CommandManager.onCommand(CommandManager.java:98) ~[EliteMobs.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[02:58:25] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml <level> 15
+[02:59:39] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml <15>
+[02:59:39] [Server thread/ERROR]: Command exception: /em spawn boss zombie_king.yml <15>
+org.bukkit.command.CommandException: Unhandled exception executing command 'em' in plugin EliteMobs v9.5.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:449) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2269) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2242) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1446) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:175) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1426) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1420) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1377) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1385) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1262) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.magmaguy.magmacore.command.CommandData.getIntegerArgument(String)" is null
+	at EliteMobs.jar/com.magmaguy.elitemobs.commands.SpawnBossLevelCommand.execute(SpawnBossLevelCommand.java:29) ~[EliteMobs.jar:?]
+	at EliteMobs.jar/com.magmaguy.magmacore.command.CommandManager.onCommand(CommandManager.java:98) ~[EliteMobs.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[02:59:57] [Server thread/INFO]: NT_ZED issued server command: /em spawn bossAt zombie_king.yml world
+[03:00:20] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml <level> 1
+[03:00:42] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss armor_goblin.yml <level>
+[03:00:42] [Server thread/ERROR]: Command exception: /em spawn boss armor_goblin.yml <level>
+org.bukkit.command.CommandException: Unhandled exception executing command 'em' in plugin EliteMobs v9.5.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:449) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2269) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2242) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1446) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:175) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1426) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1420) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1377) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1385) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1262) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.magmaguy.magmacore.command.CommandData.getIntegerArgument(String)" is null
+	at EliteMobs.jar/com.magmaguy.elitemobs.commands.SpawnBossLevelCommand.execute(SpawnBossLevelCommand.java:29) ~[EliteMobs.jar:?]
+	at EliteMobs.jar/com.magmaguy.magmacore.command.CommandManager.onCommand(CommandManager.java:98) ~[EliteMobs.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[03:00:58] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss alpha_werewolf_p1.yml <level>
+[03:00:58] [Server thread/ERROR]: Command exception: /em spawn boss alpha_werewolf_p1.yml <level>
+org.bukkit.command.CommandException: Unhandled exception executing command 'em' in plugin EliteMobs v9.5.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:449) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2269) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2242) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1446) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:175) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1426) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1420) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1377) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1385) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1262) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.magmaguy.magmacore.command.CommandData.getIntegerArgument(String)" is null
+	at EliteMobs.jar/com.magmaguy.elitemobs.commands.SpawnBossLevelCommand.execute(SpawnBossLevelCommand.java:29) ~[EliteMobs.jar:?]
+	at EliteMobs.jar/com.magmaguy.magmacore.command.CommandManager.onCommand(CommandManager.java:98) ~[EliteMobs.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[03:01:27] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml <level>
+[03:01:27] [Server thread/ERROR]: Command exception: /em spawn boss zombie_king.yml <level>
+org.bukkit.command.CommandException: Unhandled exception executing command 'em' in plugin EliteMobs v9.5.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:449) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2269) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2242) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1446) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:175) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1426) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1420) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1377) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1385) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1262) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.magmaguy.magmacore.command.CommandData.getIntegerArgument(String)" is null
+	at EliteMobs.jar/com.magmaguy.elitemobs.commands.SpawnBossLevelCommand.execute(SpawnBossLevelCommand.java:29) ~[EliteMobs.jar:?]
+	at EliteMobs.jar/com.magmaguy.magmacore.command.CommandManager.onCommand(CommandManager.java:98) ~[EliteMobs.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[03:01:40] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml <level> 1
+[03:01:50] [Server thread/INFO]: NT_ZED issued server command: /deop NT_ZED
+[03:01:50] [Server thread/INFO]: [NT_ZED: Made NT_ZED no longer a server operator]
+[03:07:34] [Server thread/INFO]: Made NT_ZED a server operator
+[03:07:38] [Server thread/INFO]: NT_ZED issued server command: /gamemode spectator
+[03:07:38] [Server thread/INFO]: [NT_ZED: Set own game mode to Spectator Mode]
+[03:09:26] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra
+[03:09:26] [Server thread/INFO]: [NT_ZED: Teleported NT_ZED to Tesrra]
+[03:09:36] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
+[03:09:36] [Server thread/INFO]: [NT_ZED: Set own game mode to Survival Mode]
+[03:10:57] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[03:11:08] [Server thread/INFO]: Tesrra was slain by NT_ZED
+[03:11:35] [Server thread/INFO]: Tesrra was slain by NT_ZED
+[03:11:53] [Server thread/INFO]: Tesrra was slain by NT_ZED
+[03:12:43] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[03:13:02] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[03:15:07] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[03:15:37] [Server thread/INFO]: NT_ZED issued server command: /gamemode spectator
+[03:15:37] [Server thread/INFO]: [NT_ZED: Set own game mode to Spectator Mode]
+[03:16:07] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_king.yml <level>
+[03:16:07] [Server thread/ERROR]: Command exception: /em spawn boss zombie_king.yml <level>
+org.bukkit.command.CommandException: Unhandled exception executing command 'em' in plugin EliteMobs v9.5.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:449) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2269) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2242) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1446) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:175) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1426) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1420) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1377) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1385) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1262) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.magmaguy.magmacore.command.CommandData.getIntegerArgument(String)" is null
+	at EliteMobs.jar/com.magmaguy.elitemobs.commands.SpawnBossLevelCommand.execute(SpawnBossLevelCommand.java:29) ~[EliteMobs.jar:?]
+	at EliteMobs.jar/com.magmaguy.magmacore.command.CommandManager.onCommand(CommandManager.java:98) ~[EliteMobs.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[03:16:38] [Server thread/INFO]: NT_ZED issued server command: /em spawn elite skeleton <level>
+[03:16:51] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss beast_master.yml
+[03:16:51] [Server thread/INFO]: ¡El Maestro de Bestias ha sido avistado!
+[03:17:57] [Server thread/INFO]: Named entity Vindicator['「3」 Maestro de Bestias'/14647, uuid='c74499e1-a364-4530-b02b-cc13e99c5377', l='ServerLevel[world]', x=-77.50, y=65.00, z=-387.50, cpos=[-5, -25], tl=1311, v=true] died: 「3」 Maestro de Bestias suffocated in a wall
+[03:18:17] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
+[03:18:17] [Server thread/INFO]: [NT_ZED: Set own game mode to Survival Mode]
+[03:19:47] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[03:20:27] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_parents_dad.yml <level>
+[03:20:27] [Server thread/ERROR]: Command exception: /em spawn boss zombie_parents_dad.yml <level>
+org.bukkit.command.CommandException: Unhandled exception executing command 'em' in plugin EliteMobs v9.5.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:449) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:347) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:341) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2269) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2242) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1446) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:175) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1426) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1420) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1377) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1385) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1262) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.magmaguy.magmacore.command.CommandData.getIntegerArgument(String)" is null
+	at EliteMobs.jar/com.magmaguy.elitemobs.commands.SpawnBossLevelCommand.execute(SpawnBossLevelCommand.java:29) ~[EliteMobs.jar:?]
+	at EliteMobs.jar/com.magmaguy.magmacore.command.CommandManager.onCommand(CommandManager.java:98) ~[EliteMobs.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[03:21:55] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss zombie_parents_dad.yml
+[03:22:02] [Server thread/INFO]: Named entity Skeleton['Papá Zombi 〔3〕'/15407, uuid='0ee1a974-6baa-469d-92cc-843325423984', l='ServerLevel[world]', x=-70.50, y=69.00, z=-392.50, cpos=[-5, -25], tl=141, v=true] died: Papá Zombi 〔3〕 suffocated in a wall
+[03:22:50] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss test_boss.yml
+[03:22:51] [Server thread/INFO]: ¡Un boss de prueba ha sido invocado!
+[03:24:19] [Server thread/INFO]: ---------------------------------------------
+[03:24:19] [Server thread/INFO]: ¡El Boss de Prueba ha sido depurado!
+[03:24:19] [Server thread/INFO]:     1er Dañador: ¡Tesrra con 39.11 daño!
+[03:24:19] [Server thread/INFO]:     2do Dañador: ¡NT_ZED con 4.0 daño!
+[03:24:19] [Server thread/INFO]: 
+[03:24:19] [Server thread/INFO]: Asesinos: Tesrra, NT_ZED
+[03:24:19] [Server thread/INFO]: ---------------------------------------------
+[03:24:19] [Server thread/INFO]: Named entity Zombie['¡Me han golpeado!'/15517, uuid='116722a4-7621-4e16-8d03-9d8e8edc7fa9', l='ServerLevel[world]', x=-70.57, y=64.00, z=-387.70, cpos=[-5, -25], tl=1776, v=true] died: ¡Me han golpeado! was slain by Tesrra
+[03:24:19] [Server thread/INFO]: [Not Secure] [Server] Tesrra has killed §4「§c3§4」§f §6Jefe de prueba! That was level 3!
+[03:24:19] [Server thread/INFO]: [Not Secure] [Server] NT_ZED has killed §4「§c3§4」§f §6Jefe de prueba! That was level 3!
+[03:24:27] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[03:24:50] [Server thread/INFO]: NT_ZED issued server command: /elitemobs track boss bab81c80-b8ee-4e8a-a038-22feca50aa5e
+[03:25:22] [Server thread/INFO]: NT_ZED issued server command: /gamemode spectator
+[03:25:22] [Server thread/INFO]: [NT_ZED: Set own game mode to Spectator Mode]
+[03:26:02] [Server thread/INFO]: NT_ZED issued server command: /em spawn bossAt charms_goblin.yml
+[03:26:06] [Server thread/INFO]: NT_ZED issued server command: /gamemode creative
+[03:26:06] [Server thread/INFO]: [NT_ZED: Set own game mode to Creative Mode]
+[03:26:23] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss charms_goblin.yml
+[03:26:23] [Server thread/INFO]: ¡Un Duende de Encantamientos ha sido avistado!
+[03:26:41] [Server thread/INFO]: NT_ZED issued server command: /gamemode survival
+[03:26:41] [Server thread/INFO]: [NT_ZED: Set own game mode to Survival Mode]
+[03:27:03] [Server thread/INFO]: ¡Tesrra fue devorado por 「3」 Duende de Encantamientos!
+[03:27:46] [Server thread/INFO]: Tesrra lost connection: Disconnected
+[03:27:46] [Server thread/INFO]: Tesrra left the game
+[03:28:17] [Server thread/INFO]: ¡「1」 Duende de Encantamientos llegó a los cerebros de NT_ZED!
+[03:28:21] [Server thread/INFO]: NT_ZED lost connection: Disconnected
+[03:28:21] [Server thread/INFO]: NT_ZED left the game
+[03:28:38] [Server thread/INFO]: Stopping the server
+[03:28:38] [Server thread/INFO]: Stopping server
+[03:28:38] [Server thread/INFO]: [EliteMobs] Disabling EliteMobs v9.5.4
+[03:28:38] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[03:28:38] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[03:28:38] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[03:28:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[03:28:38] [Server thread/INFO]: Saving players
+[03:28:38] [Server thread/INFO]: Saving worlds
+[03:28:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 91 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:28:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:28:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Saved 548 block chunks, 141 entity chunks, 0 poi chunks in world 'world_nether' in 0.62s
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:28:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:28:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:28:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:28:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:28:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:28:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:28:39] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:28:39] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:28:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:28:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
