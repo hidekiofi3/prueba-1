@@ -2124,3 +2124,73 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02:48:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
 [02:48:23] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
 [02:48:33] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:48:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[02:48:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:49:03] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:49:03] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:49:03] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:49:03] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[02:49:23] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[02:49:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:50:03] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:50:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[02:50:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[02:50:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[02:50:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[02:50:23] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[02:50:23] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[02:50:23] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[02:50:33] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[02:50:33] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:50:33] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[02:50:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:50:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:50:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[02:50:53] [Server thread/INFO]: NT_ZED lost connection: Disconnected
+[02:50:54] [Server thread/INFO]: NT_ZED left the game
+[02:51:03] [Server thread/INFO]: Stopping the server
+[02:51:03] [Server thread/INFO]: Stopping server
+[02:51:03] [Server thread/INFO]: [MobScaler] Disabling MobScaler v1.0.0
+[02:51:03] [Server thread/INFO]: [MobScaler] Evolution system shutdown complete
+[02:51:03] [Server thread/INFO]: [MobScaler] Metrics collection disabled
+[02:51:03] [Server thread/INFO]: [MobScaler] MobScaler has been disabled. Thank you for using our plugin!
+[02:51:03] [Server thread/INFO]: [Lunamatic] Disabling Lunamatic v2.0.7
+[02:51:03] [Server thread/INFO]: [Lunamatic] Lunamatic has been disabled.
+[02:51:03] [Server thread/INFO]: [EliteMobs] Disabling EliteMobs v9.5.4
+[02:51:03] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[02:51:03] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[02:51:03] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[02:51:03] [Server thread/INFO]: [Brutal_Nightmare] Disabling Brutal_Nightmare v4.6.4
+[02:51:03] [Server thread/INFO]: [FokusAPI] Disabling FokusAPI v2.8
+[02:51:03] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[02:51:03] [Server thread/INFO]: Saving players
+[02:51:04] [Server thread/INFO]: Saving worlds
+[02:51:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 99 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:51:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 78 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:51:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:51:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:51:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:51:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:51:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:51:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:51:04] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[02:51:04] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[02:51:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:51:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
