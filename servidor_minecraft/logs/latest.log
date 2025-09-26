@@ -1166,3 +1166,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01:37:22] [Server thread/INFO]: [NT_ZED: Running function cw:menu/skcaskill]
 [01:37:25] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/gonext
 [01:37:25] [Server thread/INFO]: [NT_ZED: Running function cw:menu/gonext]
+[01:37:37] [Server thread/INFO]: Tesrra was slain by Zombie
+[01:39:27] [Server thread/INFO]: Named entity Slime['Lvl 9 Elite Slime'/22034, uuid='08b48889-5f15-407e-9992-bf1959da66aa', l='ServerLevel[world]', x=-81.50, y=-3.95, z=-451.70, cpos=[-6, -29], tl=104, v=true] died: Lvl 9 Elite Slime tried to swim in lava
+[01:39:29] [Server thread/INFO]: Named entity Slime['Lvl 10 Elite Slime'/22033, uuid='d90785ed-ae71-4e87-a8d7-2b2781942458', l='ServerLevel[world]', x=-83.26, y=-4.00, z=-448.34, cpos=[-6, -29], tl=148, v=true] died: Lvl 10 Elite Slime burned to death
+[01:40:15] [Server thread/INFO]: Tesrra lost connection: Disconnected
+[01:40:16] [Server thread/INFO]: Tesrra left the game
+[01:40:16] [Server thread/INFO]: NT_ZED lost connection: Disconnected
+[01:40:16] [Server thread/INFO]: NT_ZED left the game
+[01:40:25] [User Authenticator #2/INFO]: UUID of player NT_ZED is bef16be2-c60d-3fec-aee4-f866eac40c9e
+[01:40:26] [Server thread/INFO]: NT_ZED joined the game
+[01:40:26] [Server thread/INFO]: NT_ZED[/127.182.129.158:44535] logged in with entity id 27571 at ([world]-74.4333157645735, 76.63349214709939, -388.30000001192093)
+[01:40:27] [Craft Scheduler Thread - 183 - EliteMobs/INFO]: [EliteMobs] User bef16be2-c60d-3fec-aee4-f866eac40c9e data successfully read!
+[01:40:34] [User Authenticator #2/INFO]: UUID of player Tesrra is 50904595-ce57-39b7-a02e-088d32088950
+[01:40:35] [Server thread/INFO]: Tesrra joined the game
+[01:40:35] [Server thread/INFO]: Tesrra[/127.192.40.227:48487] logged in with entity id 28307 at ([world]-75.5, 76.0, -389.5)
+[01:40:36] [Craft Scheduler Thread - 184 - EliteMobs/INFO]: [EliteMobs] User 50904595-ce57-39b7-a02e-088d32088950 data successfully read!
+[01:42:57] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/list
+[01:43:06] [Server thread/INFO]: NT_ZED issued server command: /function
+[01:43:49] [Server thread/INFO]: NT_ZED issued server command: /function info
+[01:43:54] [Server thread/INFO]: NT_ZED issued server command: /function
+[01:43:57] [Server thread/INFO]: NT_ZED issued server command: /function #minecraft:load
+[01:43:57] [Server thread/INFO]: [NT_ZED: Running functions cw:load, fokus:load]
+[01:44:18] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/main
+[01:44:18] [Server thread/INFO]: [NT_ZED: Running function cw:menu/main]
+[01:46:03] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/zbbblock
+[01:46:03] [Server thread/INFO]: [NT_ZED: Running function cw:menu/zbbblock]
+[01:46:07] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/gonext
+[01:46:07] [Server thread/INFO]: [NT_ZED: Running function cw:menu/gonext]
+[01:46:13] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/zbnewabi
+[01:46:13] [Server thread/INFO]: [NT_ZED: Running function cw:menu/zbnewabi]
+[01:46:35] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/zbsmoften
+[01:46:35] [Server thread/INFO]: [NT_ZED: Running function cw:menu/zbsmoften]
+[01:46:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:46:43] [Server thread/WARN]: Nag author(s): '[DeLaRosa]' of 'MobScaler v1.0.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[01:46:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[01:46:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[01:46:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[01:46:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:46:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:46:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:46:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[01:46:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[01:46:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[01:46:53] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[01:47:03] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/gonext
+[01:47:03] [Server thread/INFO]: [NT_ZED: Running function cw:menu/gonext]
+[01:47:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:47:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[01:47:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:47:13] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[01:47:23] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[01:47:33] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:47:33] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[01:47:42] [Server thread/INFO]: NT_ZED issued server command: /function cw:menu/gonext
+[01:47:42] [Server thread/INFO]: [NT_ZED: Running function cw:menu/gonext]
+[01:47:43] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
