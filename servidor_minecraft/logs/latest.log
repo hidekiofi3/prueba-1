@@ -1793,3 +1793,127 @@ msg Tesrra<--[HERE]
 [21:56:18] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14460, uuid='e4aac1dd-05a6-4884-b5c4-3ed8f3260993', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=8396, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
 [21:56:18] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14593, uuid='956b5987-8640-4b7b-af83-46ac3199be70', l='ServerLevel[world]', x=-78.30, y=73.09, z=-390.58, cpos=[-5, -25], tl=7396, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
 [21:56:18] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14492, uuid='544ec75f-b795-4229-87a2-d490b3d11bd6', l='ServerLevel[world]', x=-77.85, y=72.00, z=-389.30, cpos=[-5, -25], tl=8196, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:19] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/14683, uuid='38d244b4-8c6a-4661-8d95-39fd412a3f8c', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=7013, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[21:56:20] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14720, uuid='2e98b615-9e49-477a-b0fb-0bb32313ad5e', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=6833, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:22] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14494, uuid='0a1c80e5-a5e5-4a33-bd50-2aa2ef2a343d', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=8263, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:23] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/14639, uuid='65ca6dc4-3e74-423d-a4fe-511057e7765c', l='ServerLevel[world]', x=-78.30, y=72.88, z=-390.31, cpos=[-5, -25], tl=7302, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[21:56:25] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/14595, uuid='de35738d-f7d3-4d67-93fb-8fff6c8030b7', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=7535, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[21:56:27] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/14716, uuid='401635da-09e3-48d8-b230-a58c8cf6aead', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=6975, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[21:56:28] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14681, uuid='b1fba3e5-d23a-4e86-b557-23956f971265', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=7192, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:38] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/14490, uuid='ca95e12d-5707-48d4-ba08-0395c4407940', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=8594, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[21:56:40] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14433, uuid='23bd9d73-a8ef-4322-ae50-e8a0ed4bc018', l='ServerLevel[world]', x=-77.42, y=72.00, z=-389.70, cpos=[-5, -25], tl=9037, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:42] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14643, uuid='1b036eb3-0ae9-41e7-8373-5d960f8bc352', l='ServerLevel[world]', x=-78.21, y=72.00, z=-389.64, cpos=[-5, -25], tl=7671, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:45] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/14523, uuid='69977b6a-93a4-441f-9b5c-4694176d5056', l='ServerLevel[world]', x=-77.60, y=72.00, z=-389.69, cpos=[-5, -25], tl=8534, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[21:56:47] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14797, uuid='999bc997-3936-448f-a8cd-e82c88c2ebf8', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=6973, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:49] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14393, uuid='f1c3bd6f-e6c5-4d41-94e5-89af596d0348', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=9612, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:49] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14431, uuid='0479e8fe-7795-4cb9-98c7-84eef15e0b0d', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.70, cpos=[-5, -25], tl=9212, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:56:59] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14718, uuid='aef7ab68-dc45-4728-ab8a-d73b7333ba91', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.30, cpos=[-5, -25], tl=7616, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:57:01] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/14569, uuid='fc3afa14-9424-429f-9eb8-2cff35ba1486', l='ServerLevel[world]', x=-77.30, y=72.00, z=-390.36, cpos=[-5, -25], tl=8454, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[21:57:14] [Server thread/INFO]: NT_ZED was slain by Tesrra
+[22:00:27] [Server thread/INFO]: Named entity Slime['Lvl 3 Elite Slime'/316765, uuid='ce47ebb5-7603-4fd5-9021-7155f9f3fb35', l='ServerLevel[world]', x=-87.49, y=4.00, z=-500.49, cpos=[-6, -32], tl=233, v=true] died: Lvl 3 Elite Slime burned to death
+[22:01:13] [Server thread/INFO]: ¡Tesrra fue despedazado por 〔2〕 Hombre-Lobo Gamma!
+[22:01:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:01:28] [Server thread/WARN]: Nag author(s): '[DeLaRosa]' of 'MobScaler v1.0.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:01:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:01:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:01:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:01:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:01:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:01:37] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377075, uuid='f6140c10-3f0c-4e73-b5dd-87e7e7c3c201', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.30, cpos=[-5, -25], tl=408, v=true] died: 〔2〕 Omega Lobo was slain by NT_ZED
+[22:01:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:01:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:01:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:01:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:01:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:01:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:01:41] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/355583, uuid='dfc86d72-b53d-4694-9d85-2ddb2734160c', l='ServerLevel[world]', x=-78.83, y=72.00, z=-389.48, cpos=[-5, -25], tl=919, v=true] died: 〔2〕 Omega Lobo was slain by NT_ZED
+[22:01:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:01:53] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/374274, uuid='ee981081-edb8-4542-a7f9-1872fc01b287', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.30, cpos=[-5, -25], tl=787, v=true] died: 〔2〕 Omega Lobo was slain by NT_ZED
+[22:01:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:02:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:02:13] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377071, uuid='7e5f3e12-b679-433e-8d15-6c651b0f5b2d', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.30, cpos=[-5, -25], tl=1125, v=true] died: 〔2〕 Omega Lobo was slain by NT_ZED using [Irritante Patear Espada]
+[22:02:15] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/377057, uuid='f1a91a2c-d57d-427f-a785-bcf90919c166', l='ServerLevel[world]', x=-100.11, y=78.00, z=-383.31, cpos=[-7, -24], tl=1174, v=true] died: 〔2〕 Hombre-Lobo Gamma was doomed to fall by NT_ZED using [Irritante Patear Espada]
+[22:02:15] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377099, uuid='7c43712a-b051-4e84-a97d-99d98dd41398', l='ServerLevel[world]', x=-91.90, y=71.00, z=-392.02, cpos=[-6, -25], tl=1180, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:02:15] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377107, uuid='db796fb7-35d5-4da9-a342-16c3b35cf87a', l='ServerLevel[world]', x=-88.85, y=71.00, z=-402.14, cpos=[-6, -26], tl=1180, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:02:15] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/377141, uuid='7aff4d0a-fd78-48b2-afc5-bcc4a264eea2', l='ServerLevel[world]', x=-91.07, y=71.00, z=-391.07, cpos=[-6, -25], tl=1180, v=true] died: 〔2〕 Hombre-Lobo Gamma was doomed to fall by NT_ZED using [Irritante Patear Espada]
+[22:02:15] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377145, uuid='2e12886e-1c68-4468-a70d-805312311ee9', l='ServerLevel[world]', x=-91.63, y=71.00, z=-395.12, cpos=[-6, -25], tl=1180, v=true] died: 〔2〕 Omega Lobo was doomed to fall by NT_ZED using [Irritante Patear Espada]
+[22:02:15] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377121, uuid='0a7edd29-0149-469c-91f1-2340b96d9ddd', l='ServerLevel[world]', x=-96.10, y=71.00, z=-384.21, cpos=[-7, -25], tl=1183, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:02:17] [Server thread/INFO]: ¡〔2〕 Omega Lobo destrozó a NT_ZED!
+[22:02:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:02:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:02:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:02:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:02:29] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/377442, uuid='43cd31f9-8031-4ce1-be39-f05d14e639c9', l='ServerLevel[world]', x=-67.35, y=81.04, z=-386.76, cpos=[-5, -25], tl=322, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[22:02:35] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/377437, uuid='1cabace4-ce5a-49b6-8646-3c26e2693345', l='ServerLevel[world]', x=-65.31, y=76.00, z=-387.39, cpos=[-5, -25], tl=449, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[22:02:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:02:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:02:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:02:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ENDERMAN, using first valid scale
+[22:02:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:03:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:03:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:03:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:03:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:03:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:03:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:03:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for WITCH, using first valid scale
+[22:03:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:03:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:03:46] [Server thread/INFO]: ¡Tesrra fue despedazado por 〔2〕 Omega Lobo!
+[22:03:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:03:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:03:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:04:02] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/355582, uuid='afcfed8f-fb5a-4f65-81e9-464e8b0ed501', l='ServerLevel[world]', x=-77.30, y=72.00, z=-389.30, cpos=[-5, -25], tl=3751, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED using [Irritante Patear Espada]
+[22:04:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:04:09] [Server thread/INFO]: Tesrra was slain by Zombie
+[22:04:13] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377453, uuid='afc88b36-6a96-4952-bb1d-4bed84ed0007', l='ServerLevel[world]', x=-77.30, y=72.00, z=-390.18, cpos=[-5, -25], tl=2396, v=true] died: 〔2〕 Omega Lobo was slain by NT_ZED using [Irritante Patear Espada]
+[22:04:15] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/377081, uuid='33c29e7e-334e-4996-a569-91c916e68322', l='ServerLevel[world]', x=-77.30, y=72.07, z=-389.30, cpos=[-5, -25], tl=3578, v=true] died: 〔2〕 Hombre-Lobo Gamma was slain by NT_ZED using [Irritante Patear Espada]
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/377109, uuid='0a637b91-3b34-41bd-b2a9-01e346f0f51a', l='ServerLevel[world]', x=-76.85, y=74.00, z=-364.30, cpos=[-5, -23], tl=3610, v=true] died: 〔2〕 Hombre-Lobo Gamma fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377069, uuid='9d45b5ba-d6bc-4825-af5d-9c6491724a28', l='ServerLevel[world]', x=-93.08, y=71.00, z=-387.95, cpos=[-6, -25], tl=3612, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377089, uuid='72275dd3-3fbc-4062-a3e1-4231e1c65fc4', l='ServerLevel[world]', x=-91.18, y=71.00, z=-382.30, cpos=[-6, -24], tl=3612, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377093, uuid='855bf505-c540-4eef-8a0d-18b09b64335b', l='ServerLevel[world]', x=-92.26, y=71.00, z=-401.42, cpos=[-6, -26], tl=3612, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377119, uuid='40c68b32-9da0-44d3-b6bd-ac08376faeea', l='ServerLevel[world]', x=-93.40, y=71.00, z=-389.95, cpos=[-6, -25], tl=3612, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377131, uuid='d8fc0e35-dd9a-4ce9-bcc3-1c82c19b4795', l='ServerLevel[world]', x=-89.28, y=71.00, z=-389.93, cpos=[-6, -25], tl=3612, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377505, uuid='b6f7302e-40af-4ca2-9628-e6d72a92ddd4', l='ServerLevel[world]', x=-91.64, y=71.00, z=-395.94, cpos=[-6, -25], tl=2371, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/14827, uuid='0998a655-5b3d-40ec-a691-9d2d2d333612', l='ServerLevel[world]', x=-92.23, y=71.00, z=-406.16, cpos=[-6, -26], tl=15771, v=true] died: 〔2〕 Hombre-Lobo Gamma was doomed to fall by NT_ZED using [Irritante Patear Espada]
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/377097, uuid='6e47a2fd-8a67-4433-9071-936b35ccbf78', l='ServerLevel[world]', x=-101.59, y=71.00, z=-393.68, cpos=[-7, -25], tl=3613, v=true] died: 〔2〕 Hombre-Lobo Gamma fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/377501, uuid='851412e3-5097-4dc2-9da4-be80efc6cb9e', l='ServerLevel[world]', x=-97.49, y=71.00, z=-385.61, cpos=[-7, -25], tl=2372, v=true] died: 〔2〕 Hombre-Lobo Gamma fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377540, uuid='16b3905a-e45e-4e4d-8238-93eddde40f7a', l='ServerLevel[world]', x=-98.70, y=71.00, z=-383.98, cpos=[-7, -24], tl=2172, v=true] died: 〔2〕 Omega Lobo was doomed to fall by NT_ZED using [Irritante Patear Espada]
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Hombre-Lobo Gamma'/377574, uuid='aea53aba-190f-4ff4-be8e-f032e4c57fcc', l='ServerLevel[world]', x=-96.07, y=71.00, z=-386.55, cpos=[-7, -25], tl=1971, v=true] died: 〔2〕 Hombre-Lobo Gamma fell from a high place
+[22:04:17] [Server thread/INFO]: Named entity Wolf['〔2〕 Omega Lobo'/377129, uuid='3b343d64-e6a5-43df-ad01-bb36917a00d7', l='ServerLevel[world]', x=-96.89, y=71.00, z=-384.20, cpos=[-7, -25], tl=3615, v=true] died: 〔2〕 Omega Lobo fell from a high place
+[22:04:31] [Server thread/INFO]: ¡〔1〕 Omega Lobo destrozó a NT_ZED!
+[22:04:37] [Server thread/INFO]: ¡〔1〕 Hombre-Lobo Gamma destrozó a NT_ZED!
+[22:04:44] [Server thread/INFO]: Tesrra was slain by Zombie
+[22:04:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:04:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:04:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:04:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:04:52] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/377436, uuid='826f9231-9c59-449f-b2e1-818df6e5d5b9', l='ServerLevel[world]', x=-75.55, y=72.00, z=-388.03, cpos=[-5, -25], tl=3193, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[22:04:54] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/377987, uuid='0ec4ebbb-7adc-4043-b7b8-0bc066d4cad1', l='ServerLevel[world]', x=-75.76, y=72.88, z=-389.44, cpos=[-5, -25], tl=342, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[22:04:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:04:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:05:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for WITCH, using first valid scale
+[22:05:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:05:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:05:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:05:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:05:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:05:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:05:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:05:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:06:01] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 1'/378273, uuid='ce06ec6f-d011-4217-8096-70ab28580b72', l='ServerLevel[world]', x=-11.70, y=22.00, z=-452.40, cpos=[-1, -29], tl=465, v=true] died: Esqueleto de Elite Nivel 1 suffocated in a wall
+[22:06:03] [Server thread/INFO]: Tesrra was slain by Zombie
+[22:06:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:06:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:06:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:06:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:06:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
