@@ -1387,3 +1387,112 @@ msg Tesrra<--[HERE]
 [21:25:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
 [21:25:47] [Server thread/INFO]: NT_ZED was slain by Zombie
 [21:25:49] [Server thread/INFO]: Tesrra was slain by Zombie
+[21:25:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:26:00] [Server thread/INFO]: Tesrra was slain by Zombie
+[21:26:06] [Server thread/INFO]: Named entity Creeper['Creeper de Elite Nivel 6'/9897, uuid='6807c951-a56b-48a9-8b07-411ef721c154', l='ServerLevel[world]', x=5.60, y=42.00, z=-479.20, cpos=[0, -30], tl=765, v=true] died: Creeper de Elite Nivel 6 suffocated in a wall
+[21:26:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:26:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:26:57] [Server thread/INFO]: Tesrra was slain by Zombie
+[21:26:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:27:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:27:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:27:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:27:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:27:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:27:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:27:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:27:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:27:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:27:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:27:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:27:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:28:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:28:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:28:18] [Server thread/WARN]: Nag author(s): '[DeLaRosa]' of 'MobScaler v1.0.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:28:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:28:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:28:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:28:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:28:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:28:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:28:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:28:47] [Server thread/INFO]: NT_ZED was slain by Zombie
+[21:28:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:28:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:29:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:29:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:29:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:29:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:29:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:29:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:29:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:29:51] [Server thread/INFO]: NT_ZED was slain by Zombie
+[21:30:02] [Server thread/INFO]: NT_ZED was slain by Zombie
+[21:30:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:30:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:30:17] [Server thread/INFO]: Tesrra was slain by Zombie using [Hacha del Rey Zombie]
+[21:30:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:30:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:30:32] [Server thread/INFO]: NT_ZED was slain by Zombie
+[21:30:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:30:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:30:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:30:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:30:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:30:54] [Server thread/WARN]: Tesrra moved wrongly!
+[21:30:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:31:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:31:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:31:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:31:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:31:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:31:39] [Server thread/INFO]: Tesrra was doomed to fall by NT_ZED
+[21:31:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:31:48] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 4'/10833, uuid='94b48e89-bad1-4425-a087-d04390c555ad', l='ServerLevel[world]', x=27.25, y=41.00, z=-441.60, cpos=[1, -28], tl=405, v=true] died: Esqueleto de Elite Nivel 4 suffocated in a wall
+[21:31:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:31:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:32:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:32:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:32:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:32:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:32:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:32:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:32:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:32:58] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 5'/10966, uuid='64611475-7b71-459c-861d-b25d830ace6b', l='ServerLevel[world]', x=-169.40, y=-1.00, z=-407.30, cpos=[-11, -26], tl=405, v=true] died: Esqueleto de Elite Nivel 5 suffocated in a wall
+[21:33:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:33:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:33:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:33:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:33:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:33:18] [Server thread/INFO]: NT_ZED issued server command: /em spawn boss alpha_werewolf_p1.yml
+[21:33:18] [Server thread/INFO]: ¡Se escuchan los aullidos de un Hombre-Lobo Alfa!
+[21:33:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:33:28] [Server thread/WARN]: Nag author(s): '[DeLaRosa]' of 'MobScaler v1.0.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:33:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:33:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:33:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:33:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for VINDICATOR, using first valid scale
+[21:33:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:33:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:33:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:34:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:34:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:34:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:34:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:34:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:34:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:34:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:34:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[21:34:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:34:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:34:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:34:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:34:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:34:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:34:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:35:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:35:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:35:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[21:35:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[21:35:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[21:35:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
