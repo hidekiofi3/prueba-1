@@ -2904,3 +2904,118 @@ msg Tesrra<--[HERE]
 [23:07:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Tesrra> mujer me ire a cortar el cabello
 [23:07:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
 [23:07:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:07:14] [Server thread/INFO]: Tesrra lost connection: Disconnected
+[23:07:14] [Server thread/INFO]: Tesrra left the game
+[23:07:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:07:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:07:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:07:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:07:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:07:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:07:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:07:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:07:48] [Server thread/WARN]: Nag author(s): '[DeLaRosa]' of 'MobScaler v1.0.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[23:08:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:08:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:08:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:08:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:08:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:08:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:08:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:08:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:09:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:09:11] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388267, uuid='faa3a031-c714-4a86-b17a-34015bb6b301', l='ServerLevel[world]', x=-77.30, y=40.15, z=-390.70, cpos=[-5, -25], tl=25647, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:09:11] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388830, uuid='d44bfaba-d00c-4284-ae33-a7aee3e97396', l='ServerLevel[world]', x=-77.30, y=39.71, z=-390.70, cpos=[-5, -25], tl=22447, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:09:11] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388520, uuid='413b9e63-1180-490d-afba-2caeff2f927c', l='ServerLevel[world]', x=-77.31, y=40.09, z=-390.70, cpos=[-5, -25], tl=24219, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:09:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:09:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:09:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:09:43] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388604, uuid='de363724-3b35-45f6-8ca5-72c87d4f63de', l='ServerLevel[world]', x=-77.30, y=39.88, z=-390.70, cpos=[-5, -25], tl=24501, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:44] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390211, uuid='384633c2-bd03-45fe-93eb-3c3b6e72ed46', l='ServerLevel[world]', x=-77.30, y=40.09, z=-390.70, cpos=[-5, -25], tl=11296, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:44] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390185, uuid='7981e8d9-e0e2-4073-a608-95d5a6c3c7ea', l='ServerLevel[world]', x=-77.70, y=39.00, z=-390.70, cpos=[-5, -25], tl=11354, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:44] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390191, uuid='8b5f428d-a460-44e4-9dc8-8e6f137a14a2', l='ServerLevel[world]', x=-77.30, y=40.14, z=-390.70, cpos=[-5, -25], tl=11342, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:44] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388093, uuid='9d584d1f-f737-4169-8920-97c4801038d1', l='ServerLevel[world]', x=-77.30, y=39.63, z=-390.70, cpos=[-5, -25], tl=27705, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:44] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390298, uuid='9d95b544-035b-4638-adb5-49241b4a8057', l='ServerLevel[world]', x=-77.30, y=39.88, z=-390.56, cpos=[-5, -25], tl=10713, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:45] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388125, uuid='da24ed39-bdaa-47be-bb52-be118c6edc98', l='ServerLevel[world]', x=-77.30, y=40.15, z=-390.70, cpos=[-5, -25], tl=27337, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:45] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388265, uuid='5c6612e1-1413-4584-b708-82aea80d60f3', l='ServerLevel[world]', x=-77.30, y=39.40, z=-389.51, cpos=[-5, -25], tl=26337, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:45] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388111, uuid='9cfe3a01-d615-4e54-89f8-5f3ab01e1e45', l='ServerLevel[world]', x=-77.30, y=39.00, z=-390.21, cpos=[-5, -25], tl=27537, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388372, uuid='40138e2e-f71b-4bfd-bc21-ac5f28517f31', l='ServerLevel[world]', x=-77.30, y=39.40, z=-390.70, cpos=[-5, -25], tl=25750, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:09:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388380, uuid='d5894c54-03aa-4e5c-9143-723117059351', l='ServerLevel[world]', x=-77.30, y=39.71, z=-390.70, cpos=[-5, -25], tl=25671, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388109, uuid='246e3fd9-da82-4009-b3c8-1edc48aa7608', l='ServerLevel[world]', x=-77.30, y=39.88, z=-390.70, cpos=[-5, -25], tl=27550, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:09:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390317, uuid='492f25b2-9c41-4d91-8021-873c6aca1374', l='ServerLevel[world]', x=-77.30, y=39.71, z=-390.12, cpos=[-5, -25], tl=10550, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390925, uuid='53151614-84c1-45f2-9046-b7a690567256', l='ServerLevel[world]', x=-77.30, y=40.14, z=-389.81, cpos=[-5, -25], tl=6162, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:09:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:09:51] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388511, uuid='d548ebab-309a-4db1-90bc-2b5fef69f91d', l='ServerLevel[world]', x=-77.70, y=39.00, z=-390.12, cpos=[-5, -25], tl=25051, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:09:52] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388113, uuid='9a81bfe5-9001-44d7-8ecc-63e17d833284', l='ServerLevel[world]', x=-77.30, y=39.00, z=-390.07, cpos=[-5, -25], tl=27666, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:52] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388572, uuid='fa3ee1a7-cda4-4151-a0e1-adfad816e16c', l='ServerLevel[world]', x=-77.30, y=39.00, z=-390.45, cpos=[-5, -25], tl=24866, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:52] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388439, uuid='37532357-4d75-4131-8d28-94f49d5060fa', l='ServerLevel[world]', x=-77.70, y=39.00, z=-390.70, cpos=[-5, -25], tl=25666, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:54] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390294, uuid='820c65af-3c93-473b-bcc4-158e6ccd7a3b', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.82, cpos=[-5, -25], tl=10917, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:55] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390186, uuid='080c7a01-a078-496f-8d8c-f5ace2ed0b22', l='ServerLevel[world]', x=-77.70, y=39.00, z=-390.20, cpos=[-5, -25], tl=11574, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:55] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390319, uuid='e48f7dc8-9354-4ebf-8f69-4fa279bddcf9', l='ServerLevel[world]', x=-77.30, y=39.40, z=-390.67, cpos=[-5, -25], tl=10733, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:56] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/391044, uuid='eded19f7-20dd-461d-a7be-2032cdd4b6c5', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.99, cpos=[-5, -25], tl=6153, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:09:56] [Server thread/INFO]: ¡NT_ZED fue despedazado por 〔1〕 Hombre-Lobo Gamma!
+[23:09:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:08] [Server thread/INFO]: Named entity Creeper['Creeper de Elite Nivel 5'/391900, uuid='7e9e389a-e5b3-4570-b766-c083ea271145', l='ServerLevel[world]', x=-72.70, y=-26.00, z=-385.28, cpos=[-5, -25], tl=392, v=true] died: Creeper de Elite Nivel 5 suffocated in a wall
+[23:10:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:10:14] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390811, uuid='ee60b3e1-1908-4038-8920-a1e28fd2a234', l='ServerLevel[world]', x=-77.30, y=39.00, z=-390.70, cpos=[-5, -25], tl=7121, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:10:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:19] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388212, uuid='de4fdd6a-4fe6-4701-b575-23ad6445e4e3', l='ServerLevel[world]', x=-77.30, y=40.04, z=-390.70, cpos=[-5, -25], tl=27408, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:10:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:10:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:10:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:10:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:10:49] [Server thread/INFO]: NT_ZED lost connection: Disconnected
+[23:10:49] [Server thread/INFO]: NT_ZED left the game
+[23:10:53] [Server thread/INFO]: Stopping the server
+[23:10:53] [Server thread/INFO]: Stopping server
+[23:10:53] [Server thread/INFO]: [MobScaler] Disabling MobScaler v1.0.0
+[23:10:53] [Server thread/INFO]: [MobScaler] Evolution system shutdown complete
+[23:10:53] [Server thread/INFO]: [MobScaler] Metrics collection disabled
+[23:10:53] [Server thread/INFO]: [MobScaler] MobScaler has been disabled. Thank you for using our plugin!
+[23:10:53] [Server thread/INFO]: [Lunamatic] Disabling Lunamatic v2.0.7
+[23:10:53] [Server thread/INFO]: [Lunamatic] Lunamatic has been disabled.
+[23:10:53] [Server thread/INFO]: [EliteMobs] Disabling EliteMobs v9.5.4
+[23:10:53] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[23:10:53] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[23:10:53] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[23:10:53] [Server thread/INFO]: [Brutal_Nightmare] Disabling Brutal_Nightmare v4.6.4
+[23:10:53] [Server thread/INFO]: [FokusAPI] Disabling FokusAPI v2.8
+[23:10:53] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[23:10:53] [Server thread/INFO]: Saving players
+[23:10:53] [Server thread/INFO]: Saving worlds
+[23:10:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Saved 12 block chunks, 263 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:10:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 70 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:10:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:10:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:10:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:10:53] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[23:10:53] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[23:10:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:10:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
