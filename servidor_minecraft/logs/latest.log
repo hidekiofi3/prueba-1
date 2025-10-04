@@ -2772,3 +2772,135 @@ msg Tesrra<--[HERE]
 [22:56:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
 [22:56:53] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 7'/389738, uuid='2a0bfa91-c9f0-4232-a567-8bc0b05e3746', l='ServerLevel[world]', x=17.65, y=61.00, z=-463.04, cpos=[1, -29], tl=528, v=true] died: Esqueleto de Elite Nivel 7 was slain by 〔1〕 Omega Lobo
 [22:56:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:57:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:57:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:57:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:57:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:57:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:57:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:57:38] [Server thread/WARN]: Nag author(s): '[DeLaRosa]' of 'MobScaler v1.0.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:57:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:57:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:57:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:57:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:57:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:58:16] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 6'/389890, uuid='d480e0ab-71cf-4b1f-8774-a5ec15a6742e', l='ServerLevel[world]', x=4.27, y=8.00, z=-383.70, cpos=[0, -24], tl=765, v=true] died: Esqueleto de Elite Nivel 6 suffocated in a wall
+[22:58:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:58:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:58:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:58:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:58:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:58:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:58:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[22:59:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:59:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:59:16] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 6'/390006, uuid='effaa571-23dc-440f-95f9-86fdb8abe4b3', l='ServerLevel[world]', x=-25.60, y=-5.00, z=-380.50, cpos=[-2, -24], tl=765, v=true] died: Esqueleto de Elite Nivel 6 suffocated in a wall
+[22:59:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:59:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:59:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:59:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[22:59:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[22:59:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[22:59:43] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 5'/390071, uuid='33bc1ba3-705a-43c6-b450-aba0c2bb9102', l='ServerLevel[world]', x=-39.69, y=16.00, z=-332.40, cpos=[-3, -21], tl=705, v=true] died: Esqueleto de Elite Nivel 5 suffocated in a wall
+[23:00:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:00:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:00:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:00:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:00:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:00:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:00:36] [Server thread/INFO]: NT_ZED issued server command: /tp Tesrra
+[23:00:36] [Server thread/INFO]: [NT_ZED: Teleported NT_ZED to Tesrra]
+[23:00:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:00:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:00:47] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388129, uuid='f7da6eb4-5225-49e2-a8e2-4813ece6675b', l='ServerLevel[world]', x=-68.30, y=71.00, z=-390.30, cpos=[-5, -25], tl=16570, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:47] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390245, uuid='fef0f300-7528-4456-ad72-9d49c3455b30', l='ServerLevel[world]', x=-68.70, y=71.00, z=-390.70, cpos=[-5, -25], tl=339, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:47] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388149, uuid='7287cfc0-df1b-4337-8fe8-2dcfbd70afc4', l='ServerLevel[world]', x=-68.30, y=71.00, z=-390.30, cpos=[-5, -25], tl=16378, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:47] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388568, uuid='23d20ec6-fc44-46b9-a9a7-8e4a88d6d1aa', l='ServerLevel[world]', x=-68.30, y=71.00, z=-390.30, cpos=[-5, -25], tl=13978, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:47] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388721, uuid='97129d79-28cb-49b0-978d-4b04b1c9adc1', l='ServerLevel[world]', x=-68.70, y=71.00, z=-390.30, cpos=[-5, -25], tl=12978, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:48] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390228, uuid='0dc50333-e737-4de5-a161-8b7b5227fe54', l='ServerLevel[world]', x=-68.30, y=71.00, z=-390.70, cpos=[-5, -25], tl=423, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:00:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:00:48] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388332, uuid='7e51a377-01a1-4561-80ac-8d1446477679', l='ServerLevel[world]', x=-68.30, y=71.00, z=-390.70, cpos=[-5, -25], tl=13257, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:48] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390192, uuid='041013d9-8007-4384-905e-a45e9c4227d0', l='ServerLevel[world]', x=-68.70, y=71.00, z=-390.30, cpos=[-5, -25], tl=625, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:48] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390209, uuid='ba44b423-20d2-48b3-9402-b22228b15bc8', l='ServerLevel[world]', x=-68.70, y=71.00, z=-390.70, cpos=[-5, -25], tl=593, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:00:49] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388091, uuid='858ea6a8-2e9c-4af3-8fbf-2f8ded1fd66e', l='ServerLevel[world]', x=-68.30, y=71.82, z=-390.70, cpos=[-5, -25], tl=17007, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:01:03] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 5'/390236, uuid='9d6aea25-67c9-4ae5-bee0-cf20c4307feb', l='ServerLevel[world]', x=-128.26, y=3.00, z=-438.40, cpos=[-9, -28], tl=705, v=true] died: Zombi de Elite Nivel 5 suffocated in a wall
+[23:01:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:01:08] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 6'/390289, uuid='0cc30d20-c224-452a-bcbc-87e75fbd1e1e', l='ServerLevel[world]', x=-6.70, y=46.00, z=-392.60, cpos=[-1, -25], tl=405, v=true] died: Esqueleto de Elite Nivel 6 suffocated in a wall
+[23:01:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:01:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:01:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:01:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:01:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:01:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:01:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:01:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:02:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for WITCH, using first valid scale
+[23:02:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:02:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:02:36] [Server thread/INFO]: Named entity Creeper['Creeper de Elite Nivel 6'/390434, uuid='e3f02048-07ec-4103-8315-568f41559982', l='ServerLevel[world]', x=24.79, y=0.00, z=-382.40, cpos=[1, -24], tl=765, v=true] died: Creeper de Elite Nivel 6 suffocated in a wall
+[23:02:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:02:48] [Server thread/WARN]: Nag author(s): '[DeLaRosa]' of 'MobScaler v1.0.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[23:03:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:03:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:03:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:03:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:03:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:03:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:03:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:03:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:03:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:03:56] [Server thread/INFO]: Tesrra was doomed to fall by NT_ZED
+[23:03:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:03:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:03:58] [Server thread/INFO]: Named entity Skeleton['Esqueleto de Elite Nivel 6'/390651, uuid='228a5ead-8fac-44b7-8abf-d3973b1dc101', l='ServerLevel[world]', x=-77.50, y=-1.00, z=-462.30, cpos=[-5, -29], tl=405, v=true] died: Esqueleto de Elite Nivel 6 suffocated in a wall
+[23:04:06] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388298, uuid='13b3151d-08dd-4882-9476-c291cee6ddae', l='ServerLevel[world]', x=-77.70, y=39.00, z=-389.83, cpos=[-5, -25], tl=19343, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:06] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388269, uuid='db22bd1f-1bcd-4a39-adaf-5d9632c3b1e1', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.86, cpos=[-5, -25], tl=19544, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:06] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388489, uuid='3e54a856-9add-4e29-a5cb-71d6b9e4f571', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.83, cpos=[-5, -25], tl=18354, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:06] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388625, uuid='5dcc9dff-0194-4dd5-b6da-9f66ee632fbd', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.85, cpos=[-5, -25], tl=17558, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:06] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388296, uuid='1477aa64-53bc-4466-b34a-e33a8e404f2f', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.82, cpos=[-5, -25], tl=19360, v=true] died: 〔1〕 Hombre-Lobo Gamma was squished too much
+[23:04:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:04:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:04:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:04:09] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388777, uuid='a6eb0be3-9c10-4a5d-9623-9d682ac111b5', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.78, cpos=[-5, -25], tl=16819, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:10] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390701, uuid='ed12cca6-5f63-4a72-b781-c519ed8f42f8', l='ServerLevel[world]', x=-77.30, y=39.00, z=-389.87, cpos=[-5, -25], tl=239, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:12] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388719, uuid='f8e3a4d9-f2c9-45f1-8e60-f5941f9b4ae4', l='ServerLevel[world]', x=-77.30, y=69.46, z=-390.58, cpos=[-5, -25], tl=17063, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:04:12] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390188, uuid='38716167-3b8a-4130-adba-2a97048373e2', l='ServerLevel[world]', x=-77.55, y=39.83, z=-389.67, cpos=[-5, -25], tl=4719, v=true] died: 〔1〕 Omega Lobo was squashed by Tesrra
+[23:04:13] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390212, uuid='7e7838d0-da41-4776-a8d8-734cf0494fc7', l='ServerLevel[world]', x=-77.30, y=39.00, z=-390.70, cpos=[-5, -25], tl=4674, v=true] died: 〔1〕 Omega Lobo was slain by Tesrra
+[23:04:13] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/390227, uuid='0fe76bad-1d7c-4cfa-9aaf-a039bff57b66', l='ServerLevel[world]', x=-77.70, y=39.00, z=-389.64, cpos=[-5, -25], tl=4540, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:14] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388775, uuid='8e608771-cc5e-4d19-aef7-0086155af317', l='ServerLevel[world]', x=-77.70, y=39.00, z=-389.78, cpos=[-5, -25], tl=16908, v=true] died: 〔1〕 Hombre-Lobo Gamma was squished too much
+[23:04:14] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388300, uuid='a70e6602-ea50-4cbd-b253-248ba2252ec6', l='ServerLevel[world]', x=-77.70, y=39.00, z=-389.73, cpos=[-5, -25], tl=19512, v=true] died: 〔1〕 Omega Lobo was squished too much
+[23:04:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:04:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:04:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:04:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:04:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:04:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:04:26] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388214, uuid='77b6501b-d961-42b8-a464-5a447ecac5e4', l='ServerLevel[world]', x=-77.30, y=39.00, z=-390.70, cpos=[-5, -25], tl=20355, v=true] died: 〔1〕 Omega Lobo was slain by Tesrra
+[23:04:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:04:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:04:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:04:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:04:38] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388153, uuid='ef4c18b9-8739-4538-ad50-f72f08513d01', l='ServerLevel[world]', x=-77.70, y=39.71, z=-390.30, cpos=[-5, -25], tl=20994, v=true] died: 〔1〕 Hombre-Lobo Gamma was squished too much
+[23:04:38] [Server thread/INFO]: Named entity Creeper['Creeper de Elite Nivel 4'/390802, uuid='f13e1082-659c-4184-af3b-1a47fb6d60e6', l='ServerLevel[world]', x=-114.15, y=-24.00, z=-458.60, cpos=[-8, -29], tl=405, v=true] died: Creeper de Elite Nivel 4 suffocated in a wall
+[23:04:46] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388435, uuid='5ad7f160-6f39-4f10-a2b1-a4d3f6799ab7', l='ServerLevel[world]', x=-77.30, y=39.00, z=-390.70, cpos=[-5, -25], tl=19561, v=true] died: 〔1〕 Hombre-Lobo Gamma was doomed to fall by NT_ZED
+[23:04:48] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388801, uuid='eba69495-1a28-4c36-b8e6-a1844ccbefa4', l='ServerLevel[world]', x=-77.30, y=40.14, z=-390.70, cpos=[-5, -25], tl=17384, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:04:48] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388602, uuid='2b28190c-a0f1-421a-93a5-d961034786f9', l='ServerLevel[world]', x=-77.30, y=39.94, z=-389.87, cpos=[-5, -25], tl=18584, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:04:49] [Server thread/INFO]: Named entity Wolf['〔1〕 Hombre-Lobo Gamma'/388717, uuid='23b41e77-7015-49d2-8bf6-ddaf63d102cd', l='ServerLevel[world]', x=-77.30, y=39.40, z=-390.70, cpos=[-5, -25], tl=17805, v=true] died: 〔1〕 Hombre-Lobo Gamma was slain by NT_ZED
+[23:04:49] [Server thread/INFO]: Named entity Wolf['〔1〕 Omega Lobo'/388190, uuid='3dc20034-f6fe-4440-bd97-e9adcdfb6a21', l='ServerLevel[world]', x=-77.30, y=39.71, z=-390.70, cpos=[-5, -25], tl=21019, v=true] died: 〔1〕 Omega Lobo was slain by NT_ZED
+[23:04:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:05:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:05:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SPIDER, using first valid scale
+[23:05:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:05:18] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:05:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:05:37] [Server thread/INFO]: Named entity Zombie['Zombi de Elite Nivel 5'/390891, uuid='ec68fc6b-bad3-4ac7-bbd2-087b9b04445e', l='ServerLevel[world]', x=-75.21, y=-4.00, z=-460.60, cpos=[-5, -29], tl=1385, v=true] died: Zombi de Elite Nivel 5 suffocated in a wall
+[23:05:38] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:05:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:06:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:06:28] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:06:48] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for ZOMBIE, using first valid scale
+[23:06:58] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for CREEPER, using first valid scale
+[23:07:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Tesrra> mujer me ire a cortar el cabello
+[23:07:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
+[23:07:08] [Server thread/INFO]: [MobScaler] [STDOUT] [MobScaler] ERROR: Total weight is 0.0 for SKELETON, using first valid scale
